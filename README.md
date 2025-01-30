@@ -32,6 +32,7 @@
 🎨 Aqui estão alguns dos meus projetos :
 
 1. [Sistema de Base de Conhecimento](https://github.com/[rpmarques]/base_conhecimento): Primeiro sistema que desenvolvi, base de conhecimetno, até hoje é utilizado aqui na empresa.
+2. [Sistema de Controle de Empréstimos de Livros](https://github.com/[rpmarques]/biblioteca): Sistema Simples para gerenciar empréstimos de livros.
 
 
 ## Vamos Criar Algo Incrível! 💫
