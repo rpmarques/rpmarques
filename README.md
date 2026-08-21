@@ -1,41 +1,132 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+
+# 👋 Olá, eu sou Ricardo Marques
+
+### Desenvolvedor de Sistemas | PHP • MySQL • JavaScript • Automação
+
+**Transformo ideias em soluções digitais.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-rpmarques-181717?style=for-the-badge&logo=github)](https://github.com/rpmarques)
+[![Portfolio](https://img.shields.io/badge/Portfólio-ricardomarques.dev.br-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ricardomarques.dev.br)
+
 </div>
 
-# 🚀 Olá, eu sou Ricardo Marques
+---
 
-## Sobre mim
+## 💻 Sobre mim
 
-✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Curioso e esforçado por natureza. ✨
+Sou desenvolvedor de sistemas com foco em **soluções web, sistemas de gestão, automações e ferramentas personalizadas para empresas**.
 
-## Habilidades Tecnológicas
+Gosto de transformar necessidades reais em sistemas simples, funcionais e fáceis de manter. Trabalho principalmente com **PHP, MySQL, JavaScript e tecnologias web**, construindo desde pequenas automações até sistemas completos de gerenciamento.
 
-💻 Aqui estão algumas das tecnologias que eu domino:
+Também atuo como freelancer, desenvolvendo **sistemas sob medida, landing pages e soluções digitais para pequenos negócios e profissionais**.
 
--  Linguagens de Programação: 
+---
 
-    [![My Skills](https://skillicons.dev/icons?i=php,js)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+## 🚀 O que eu desenvolvo
 
-    [![My Skills](https://skillicons.dev/icons?i=laravel,nodejs)](https://skillicons.dev)
-- Dados: 
+- 🏢 **Sistemas de gestão empresarial**
+- 💰 **Sistemas financeiros e controle de contas**
+- 📦 **Controle de estoque e operações**
+- 🧾 **Ordens de serviço e gestão comercial**
+- 🏥 **Soluções para clínicas e profissionais**
+- 🤖 **Automação de processos e planilhas**
+- 🌐 **Sites e landing pages profissionais**
+- 📊 **Dashboards e relatórios gerenciais**
+- 🔌 **APIs e integrações entre sistemas**
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+---
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
-- Desenvolvimento Web:
+## 🛠️ Tecnologias
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
-## Projetos Criativos
+### Backend
 
-🎨 Aqui estão alguns dos meus projetos :
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,laravel)](https://skillicons.dev)
 
-1. [Sistema de Base de Conhecimento](https://github.com/rpmarques/base_conhecimento) Primeiro sistema que desenvolvi, base de conhecimetno, até hoje é utilizado aqui na empresa.
-2. [Sistema de Controle de Empréstimos de Livros](https://github.com/rpmarques/biblioteca) Sistema Simples para gerenciar empréstimos de livros.
+### Frontend
 
-## Vamos Criar Algo Incrível! 💫
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
-💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+### Banco de dados
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=rpmarques\&rank_icon=percentile)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+### Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+---
+
+## ⭐ Projetos em destaque
+
+### 🏢 SGC — Sistema Gerenciador de Contas
+
+Sistema de gestão desenvolvido para centralizar processos financeiros e operacionais de empresas.
+
+**Tecnologias:** PHP • MySQL • JavaScript • Bootstrap
+
+---
+
+### 🎯 BetControl
+
+Sistema para gerenciamento de operações, controle de banca, movimentações financeiras e análise de resultados.
+
+**Tecnologias:** PHP • PDO • MySQL • JavaScript
+
+---
+
+### 📚 Base de Conhecimento
+
+Sistema desenvolvido para organização e consulta de informações e procedimentos internos.
+
+**Tecnologias:** PHP • MySQL • JavaScript
+
+---
+
+### 🧩 Automação e soluções personalizadas
+
+Desenvolvimento de ferramentas para automatizar tarefas repetitivas, organizar dados e reduzir processos manuais.
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpmarques&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpmarques&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Atualmente
+
+- 🚀 Evoluindo meus projetos próprios e soluções SaaS
+- 💼 Desenvolvendo projetos como freelancer
+- 🧠 Aprimorando arquitetura e organização de sistemas
+- ⚙️ Criando automações para transformar processos manuais em soluções digitais
+- 🌐 Construindo um portfólio cada vez mais focado em resultados para clientes
+
+---
+
+## 🤝 Vamos trabalhar juntos?
+
+Tem uma ideia, processo manual ou problema que poderia ser transformado em um sistema?
+
+**Vamos conversar e transformar essa ideia em uma solução.**
+
+<div align="center">
+
+### 🌐 [ricardomarques.dev.br](https://ricardomarques.dev.br)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Se algum projeto meu foi útil para você, considere deixar uma estrela!
+
+</div>
