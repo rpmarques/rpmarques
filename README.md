@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Ricardo Marques
 
-### Desenvolvedor de Sistemas | PHP • MySQL • JavaScript • Automação
+### Desenvolvedor de Sistemas Júnior | PHP • MySQL • JavaScript • Automação
 
 **Transformo ideias em soluções digitais.**
 
@@ -15,11 +15,22 @@
 
 ## 💻 Sobre mim
 
-Sou desenvolvedor de sistemas com foco em **soluções web, sistemas de gestão, automações e ferramentas personalizadas para empresas**.
+Sou **Desenvolvedor de Sistemas Júnior na Genesys Informática**, atuando no desenvolvimento e evolução de soluções para o ambiente empresarial.
 
-Gosto de transformar necessidades reais em sistemas simples, funcionais e fáceis de manter. Trabalho principalmente com **PHP, MySQL, JavaScript e tecnologias web**, construindo desde pequenas automações até sistemas completos de gerenciamento.
+No meu trabalho e nos meus projetos pessoais, gosto de transformar necessidades reais em **sistemas simples, funcionais e fáceis de manter**. Tenho foco principalmente em **PHP, MySQL, JavaScript e tecnologias web**, trabalhando desde automações e ferramentas internas até sistemas completos de gerenciamento.
 
-Também atuo como freelancer, desenvolvendo **sistemas sob medida, landing pages e soluções digitais para pequenos negócios e profissionais**.
+Também atuo como freelancer, desenvolvendo **sistemas sob medida, landing pages, automações e soluções digitais para pequenos negócios e profissionais**.
+
+---
+
+## 🏢 Experiência profissional
+
+### Genesys Informática
+**Desenvolvedor de Sistemas Júnior**
+
+Atuação com desenvolvimento, manutenção e evolução de sistemas, buscando soluções práticas para necessidades reais do ambiente empresarial.
+
+> Experiência profissional + projetos próprios = aprendizado constante e evolução contínua.
 
 ---
 
@@ -59,33 +70,79 @@ Também atuo como freelancer, desenvolvendo **sistemas sob medida, landing pages
 
 ## ⭐ Projetos em destaque
 
-### 🏢 SGC — Sistema Gerenciador de Contas
+<div align="center">
 
-Sistema de gestão desenvolvido para centralizar processos financeiros e operacionais de empresas.
+<table>
+<tr>
+<td width="50%">
 
-**Tecnologias:** PHP • MySQL • JavaScript • Bootstrap
+### 🏢 SGC
+**Sistema Gerenciador de Contas**
 
----
+Sistema de gestão voltado para controle financeiro e processos operacionais, desenvolvido com foco em simplicidade, organização e evolução modular.
+
+**PHP • MySQL • JavaScript • Bootstrap**
+
+[🔗 Ver projeto](https://github.com/rpmarques/sgc)
+
+</td>
+<td width="50%">
 
 ### 🎯 BetControl
+**Gestão e análise de operações**
 
-Sistema para gerenciamento de operações, controle de banca, movimentações financeiras e análise de resultados.
+Sistema para controle de banca, registro de operações, movimentações financeiras e acompanhamento de resultados.
 
-**Tecnologias:** PHP • PDO • MySQL • JavaScript
+**PHP • PDO • MySQL • JavaScript**
 
----
+[🔗 Ver projeto](https://github.com/rpmarques/BetControl)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 📚 Base de Conhecimento
+**Organização de informações**
 
-Sistema desenvolvido para organização e consulta de informações e procedimentos internos.
+Sistema criado para centralizar conhecimentos, procedimentos e informações internas, sendo utilizado em ambiente empresarial.
 
-**Tecnologias:** PHP • MySQL • JavaScript
+**PHP • MySQL • JavaScript**
+
+[🔗 Ver projeto](https://github.com/rpmarques/base_conhecimento)
+
+</td>
+<td width="50%">
+
+### 📦 Controle de Estoque
+**Gestão de estoque**
+
+Solução para gerenciamento de produtos, movimentações e controle operacional de estoque.
+
+**PHP • MySQL • JavaScript**
+
+[🔗 Ver projeto](https://github.com/rpmarques/estoque)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🧩 Automação e soluções personalizadas
+## 💡 Outros projetos
 
-Desenvolvimento de ferramentas para automatizar tarefas repetitivas, organizar dados e reduzir processos manuais.
+Além dos projetos em destaque, venho desenvolvendo e estudando soluções envolvendo:
+
+- 🏥 Sistemas para clínicas
+- 🏠 Gestão imobiliária
+- 🧾 Ordens de serviço
+- 🛒 Sistemas comerciais
+- 📊 Importação e tratamento de dados
+- 🔄 Integrações e APIs
+- ⚙️ Automação de tarefas administrativas
+- 🎨 Landing pages e sites profissionais
 
 ---
 
@@ -103,9 +160,10 @@ Desenvolvimento de ferramentas para automatizar tarefas repetitivas, organizar d
 
 ## 🎯 Atualmente
 
+- 💼 Desenvolvedor de Sistemas Júnior na **Genesys Informática**
 - 🚀 Evoluindo meus projetos próprios e soluções SaaS
-- 💼 Desenvolvendo projetos como freelancer
-- 🧠 Aprimorando arquitetura e organização de sistemas
+- 💻 Desenvolvendo projetos como freelancer
+- 🧠 Aprofundando conhecimentos em arquitetura e organização de sistemas
 - ⚙️ Criando automações para transformar processos manuais em soluções digitais
 - 🌐 Construindo um portfólio cada vez mais focado em resultados para clientes
 
@@ -120,6 +178,8 @@ Tem uma ideia, processo manual ou problema que poderia ser transformado em um si
 <div align="center">
 
 ### 🌐 [ricardomarques.dev.br](https://ricardomarques.dev.br)
+
+[![GitHub](https://img.shields.io/badge/GitHub-rpmarques-181717?style=for-the-badge&logo=github)](https://github.com/rpmarques)
 
 </div>
 
